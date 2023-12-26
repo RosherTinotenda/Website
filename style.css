@@ -15,11 +15,13 @@ main{
   background:linear-gradient(to left, blue, white);
   background-repeat :no-repeat ;
   background-attachment :fixed ;
+  background-size: cover;
   
 }
 
 h1{
   background:linear-gradient(to right,blue , white);
+  background-size: cover;
   
   
 }
@@ -28,6 +30,7 @@ ul{
   
   font-weight: bold;
   font-size : 10px;
+  background-size: cover;
   
   
  }
@@ -43,12 +46,13 @@ ul{
      height: 55px;
      width:350px;
       background:linear-gradient(to right, blue, white );
+     
     
           position:relative;
      
           top:240px;
           left:0px;
-     
+     background-size: cover;
    }
    
    
@@ -64,6 +68,7 @@ ul{
      
      top:250px;
      left:0px;
+     background-size: cover;
      
    }
  
