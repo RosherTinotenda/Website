@@ -1,0 +1,81 @@
+body {
+  background:linear-gradient (to right, lightgreen, white );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+
+
+
+}
+
+main {
+
+
+  background: linear-gradient(to left, lightgreen , white);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+h1 {
+  background: linear-gradient(to right, lightgreen , white);
+
+
+}
+
+ul {
+
+  font-weight: bold;
+  font-size: 10px;
+
+
+}
+
+
+
+
+
+
+
+#box1 {
+  border: 1px solid;
+  height: 55px;
+  width: 350px;
+  background: linear-gradient(to right, lightgreen , white);
+
+  position: relative;
+
+  top: 240px;
+  left: 0px;
+
+}
+
+
+#box2 {
+
+
+  border: 1px solid;
+  height: 20px;
+  width: 300px;
+  background: linear-gradient(to right, lightgreen , white);
+
+  position: relative;
+
+  top: 250px;
+  left: 0px;
+
+}
+
+button {
+
+
+  color: black;
+}
+
+img{
+  height:350px;
+  width:300px;
+  
+  
+}
