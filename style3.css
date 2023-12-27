@@ -1,5 +1,5 @@
 body {
-  background:linear-gradient (to right, lightgreen, white );
+  background: url("back.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -12,14 +12,14 @@ body {
 main {
 
 
-  background: linear-gradient(to left, lightgreen , white);
+  background: linear-gradient(to left, green , white);
   background-repeat: no-repeat;
   background-attachment: fixed;
 
 }
 
 h1 {
-  background: linear-gradient(to right, lightgreen , white);
+  background: linear-gradient(to right, green , white);
 
 
 }
@@ -42,7 +42,7 @@ ul {
   border: 1px solid;
   height: 55px;
   width: 350px;
-  background: linear-gradient(to right, lightgreen , white);
+  background: linear-gradient(to right, green , brown);
 
   position: relative;
 
@@ -58,7 +58,7 @@ ul {
   border: 1px solid;
   height: 20px;
   width: 300px;
-  background: linear-gradient(to right, lightgreen , white);
+  background: linear-gradient(to right, green , brown);
 
   position: relative;
 
